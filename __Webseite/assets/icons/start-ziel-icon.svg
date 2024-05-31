@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 329.66 329.66">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        fill: #ea6520;
+        font-family: Karantina-Bold, Karantina;
+        font-size: 100px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #122317;
+        stroke: #1d1d1b;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #ea6520;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Ebene_1-2" data-name="Ebene 1">
+    <g>
+      <g>
+        <circle class="cls-3" cx="164.83" cy="164.83" r="164.33"/>
+        <text class="cls-2" transform="translate(76.77 152.42)"><tspan class="cls-5" x="0" y="0">S</tspan><tspan class="cls-1" x="33.2" y="0">T</tspan><tspan class="cls-6" x="65.3" y="0">A</tspan><tspan class="cls-1" x="110.5" y="0">R</tspan><tspan x="146.5" y="0">T</tspan></text>
+      </g>
+      <text class="cls-2" transform="translate(101.53 255.1)"><tspan class="cls-7" x="0" y="0">Z</tspan><tspan x="34.5" y="0">IEL</tspan></text>
+      <line class="cls-4" x1="55.25" y1="168.81" x2="274.41" y2="168.81"/>
+    </g>
+  </g>
+</svg>
